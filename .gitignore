@@ -1,5 +1,17 @@
+# Files
+Codes.py
+# File Types
 *.pkl
 *.csv
-ASCII_Downloaded.ipynb
-/Altervative/
 *.docx
+# Folders
+/thesis_data/
+/shap_plots/
+/roc_plots/
+/p_values/
+/df_vizual/
+/df_dummies/
+/df_sql/
+/df_data/
+/aics/
+/__pycache__/
