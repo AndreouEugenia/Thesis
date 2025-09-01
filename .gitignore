@@ -4,7 +4,6 @@ tree_feature_names_only
 # File Types
 *.pkl
 *.csv
-*.docx
 # Folders
 /thesis_data/
 /shap_plots/
