@@ -1,6 +1,7 @@
 # Files
 Codes.py
 tree_feature_names_only
+Thesis_Unused_Tables_SQL_CSV.ipynb
 # File Types
 *.pkl
 *.csv
@@ -15,4 +16,5 @@ tree_feature_names_only
 /df_data/
 /aics/
 /__pycache__/
+/Alternative/
 
