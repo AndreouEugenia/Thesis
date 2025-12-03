@@ -5,6 +5,7 @@ Thesis_Unused_Tables_SQL_CSV.ipynb
 # File Types
 *.pkl
 *.csv
+*.docx
 # Folders
 /thesis_data/
 /shap_plots/
